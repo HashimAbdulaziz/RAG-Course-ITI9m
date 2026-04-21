@@ -11,8 +11,6 @@ In the initial version, the conversation state was managed using a basic Python 
 ---
 
 
-```
-
 ### The Old Code (The "Infinite Array")
 
 This code manually appends data to a simple Python list. It is prone to context window limits, token cost inflation, and memory loss if the script closes.
