@@ -1,7 +1,4 @@
-```python?code_reference&code_event_index=2
-readme_content = """# 🧑AI Chef Assistant: Architecture Evolution
-
-This document outlines the architectural evolution of the AI Chef Assistant from a basic, monolithic script to a production-ready state machine using **LangGraph**.
+# AI Chef Assistant: Architecture Evolution
 
 ---
 
