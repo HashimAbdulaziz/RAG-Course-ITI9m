@@ -2,7 +2,7 @@
 
 ---
 
-## The Legacy Approach: The "Infinite Array" (Old Code)
+## The "Infinite Array" (Old Code)
 
 In the initial version, the conversation state was managed using a basic Python list (`chatHistory`). While this works for a quick terminal test, it is a dangerous anti-pattern for a backend application.
 
